@@ -1,8 +1,14 @@
-# Hi, I'm Teja 👋
+<div align="center">
 
-Data Engineer passionate about building scalable cloud-native data platforms, modern analytics pipelines, and AI-ready infrastructure.
+# Hi, I'm Teja Vamshi 👋
 
----
+### Data Engineer | Building Modern Data Platforms for Analytics & AI
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=AWS+%7C+Databricks+%7C+Snowflake;Apache+Spark+%7C+Airflow;Building+Scalable+Data+Platforms" />
+</p>
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -62,6 +68,24 @@ Customer segmentation and analytics workflows.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TejaVamshidharReddy&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaVamshidharReddy&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TejaVamshidharReddy&theme=github-dark&hide_border=true"/>
+
+</p>
+
 ## 📚 Currently Learning
 
 - Apache Kafka
@@ -76,10 +100,20 @@ Customer segmentation and analytics workflows.
 
 ## 🌎 Connect with Me
 
-LinkedIn: www.linkedin.com/in/tejavamshi
+<p align="center">
 
-Email: tejavamshireddy@gmail.com
+<a href="https://www.linkedin.com/in/tejavamshi">
 
----
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:tejavamshireddy@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
 
 ⭐ Always learning, always building.
