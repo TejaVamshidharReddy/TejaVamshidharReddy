@@ -11,39 +11,29 @@ Data Engineer passionate about building scalable cloud-native data platforms, mo
 - ☁️ Building cloud data platforms on AWS
 - 🚀 Interested in Data Engineering, AI Infrastructure, and Modern Lakehouses
 
----
+## 🚀 Tech Stack
 
-## 🛠 Tech Stack
+<p align="center">
 
-### Cloud
+<img src="https://skillicons.dev/icons?i=aws,python,scala,git,docker,terraform,vscode,github"/>
 
-AWS
+</p>
 
-### Data Engineering
+<p align="center">
 
-Databricks
+<img alt="Databricks" src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
 
-Snowflake
+<img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
 
-Apache Spark
+<img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
-PySpark
+<img alt="Apache Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 
-Airflow
+<img alt="Delta Lake" src="https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge"/>
 
-Delta Lake
+<img alt="Palantir Foundry" src="https://img.shields.io/badge/Palantir%20Foundry-101113?style=for-the-badge"/>
 
-SQL
-
-Python
-
-Scala
-
-Terraform
-
-GitHub Actions
-
----
+</p>
 
 ## 🚀 Featured Projects
 
