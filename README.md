@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 - 💼 Data Engineer at Capital One
-- 🎓 Master's in Computer Science – University of North Texas
+- 🎓 Master's in Data Science – University of North Texas
 - ☁️ Building cloud data platforms on AWS
 - 🚀 Interested in Data Engineering, AI Infrastructure, and Modern Lakehouses
 
