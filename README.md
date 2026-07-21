@@ -79,12 +79,10 @@ Customer segmentation and analytics workflows.
 
 </p>
 
-## 🔥 Contribution Streak
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TejaVamshidharReddy&theme=github-dark&hide_border=true"/>
-
+  
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TejaVamshidharReddy&theme=github-dark&hide_border=true" />
+  
 </p>
 
 ## 📚 Currently Learning
