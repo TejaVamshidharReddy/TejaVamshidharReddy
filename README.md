@@ -5,11 +5,12 @@
 ### Data Engineer | Building Modern Data Platforms for Analytics & AI
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=AWS+%7C+Databricks+%7C+Snowflake;Apache+Spark+%7C+Airflow;Building+Scalable+Data+Platforms" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Engineer;AWS+%7C+Databricks+%7C+Snowflake;Apache+Spark+%7C+Airflow;Building+Scalable+Data+Platforms" />
 </p>
 
 </div>
 
+---
 ## 👨‍💻 About Me
 
 - 💼 Data Engineer at Capital One
@@ -98,20 +99,16 @@ Customer segmentation and analytics workflows.
 
 ---
 
-## 🌎 Connect with Me
+## 🤝 Connect with Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/tejavamshi">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="mailto:tejavamshireddy@gmail.com">
-
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 </p>
