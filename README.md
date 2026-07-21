@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-banner.svg" alt="Teja Vamshi GitHub Banner" width="100%" />
+</p>
+
 <div align="center">
 
 # Hi, I'm Teja Vamshi 👋
